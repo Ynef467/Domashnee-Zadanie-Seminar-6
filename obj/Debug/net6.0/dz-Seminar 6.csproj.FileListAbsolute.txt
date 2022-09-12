@@ -1,0 +1,15 @@
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\bin\Debug\net6.0\dz-Seminar 6.exe
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\bin\Debug\net6.0\dz-Seminar 6.deps.json
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\bin\Debug\net6.0\dz-Seminar 6.runtimeconfig.json
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\bin\Debug\net6.0\dz-Seminar 6.dll
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\bin\Debug\net6.0\dz-Seminar 6.pdb
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.csproj.AssemblyReference.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.AssemblyInfoInputs.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.AssemblyInfo.cs
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.csproj.CoreCompileInputs.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.dll
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\refint\dz-Seminar 6.dll
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.pdb
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\dz-Seminar 6.genruntimeconfig.cache
+C:\Users\Ynef4\Desktop\Оучение\Знакомство с языками програмированием\dz-Seminar 6\obj\Debug\net6.0\ref\dz-Seminar 6.dll
